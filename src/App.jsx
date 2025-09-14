@@ -18,8 +18,8 @@ function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>Document Assistant</h1>
-        <p>Upload PDFs and ask questions about your documents</p>
+        <h1>Mirage</h1>
+        <p>Upload your PDF. We'll annotate.</p>
       </header>
       
       <main className="app-main">
